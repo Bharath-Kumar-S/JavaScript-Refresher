@@ -25,3 +25,4 @@
 17. [wordFrequency](./Maps/wordFrequency.js)
 18. [wordFrequency2](./Maps/wordFrequency2.js)
 19. [wordindex](./Maps/wordindex.js)
+
