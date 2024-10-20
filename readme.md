@@ -26,3 +26,8 @@
 18. [wordFrequency2](./Maps/wordFrequency2.js)
 19. [wordindex](./Maps/wordindex.js)
 
+### Recursion
+
+20. [recursion](./Recursion/index.js)
+21. [factorial](./Recursion/factorial.js)
+22. [sum of digits](./Recursion/sumOfDigits.js)
