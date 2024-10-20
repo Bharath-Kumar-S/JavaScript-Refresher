@@ -31,3 +31,11 @@
 20. [recursion](./Recursion/index.js)
 21. [factorial](./Recursion/factorial.js)
 22. [sum of digits](./Recursion/sumOfDigits.js)
+
+### Binary search
+
+23. [biotonic array](./BinarySearch/biotonicArray.js)
+24. [iteration binary search](./BinarySearch/iterationBinarySearch.js)
+25. [recursive binary search](./BinarySearch/recursiveBinarySearch.js)
+26. [rotated array](./BinarySearch/rotatedArray.js)
+27. [search books](./BinarySearch/searchBooks.js)
