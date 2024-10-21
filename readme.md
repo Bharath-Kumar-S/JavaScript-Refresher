@@ -39,3 +39,10 @@
 25. [recursive binary search](./BinarySearch/recursiveBinarySearch.js)
 26. [rotated array](./BinarySearch/rotatedArray.js)
 27. [search books](./BinarySearch/searchBooks.js)
+
+### Destructure
+
+28. [destructure](./Destructure/index.js)
+29. [rest parameters](./Destructure/restParameters.js)
+30. [destructure array](./Destructure/destructureArray.js)
+31. [destructure array 2](./Destructure/destructureArray2.js)
