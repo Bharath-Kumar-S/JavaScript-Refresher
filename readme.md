@@ -46,3 +46,8 @@
 29. [rest parameters](./Destructure/restParameters.js)
 30. [destructure array](./Destructure/destructureArray.js)
 31. [destructure array 2](./Destructure/destructureArray2.js)
+
+### Class
+
+32. [class](./Class/index.js)
+33. [private](./Class/private.js)
