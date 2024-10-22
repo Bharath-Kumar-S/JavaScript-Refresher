@@ -51,3 +51,7 @@
 
 32. [class](./Class/index.js)
 33. [private](./Class/private.js)
+
+### Timers
+
+34. [intervals](./Timers/intervals.js)
