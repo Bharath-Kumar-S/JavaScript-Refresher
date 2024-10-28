@@ -55,3 +55,8 @@
 ### Timers
 
 34. [intervals](./Timers/intervals.js)
+
+### Strings
+
+35. [151-reverse-words](./Strings/151-reverse-words-in-string.js)
+36. [1768-merge-strings-alternatively](./Strings/1768-merge-strings-alternatively.js)
