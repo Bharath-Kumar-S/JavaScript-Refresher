@@ -31,3 +31,33 @@
 // );
 
 // export default App;
+
+
+
+
+
+// import { BrowserRouter, NavLink, Routes, Route } from 'react-router-dom';
+// import Observatory from './Observatory';
+
+// export default function App() {
+//   return (
+//     <BrowserRouter>
+//       <nav>
+//         {/* Navigation link to Observatory */}
+//         <NavLink
+//           to="/observatory"
+//           style={({ isActive }) => ({
+//             color: isActive ? 'cyan' : 'grey'
+//           })}
+//         >
+//           Observatory
+//         </NavLink>
+//       </nav>
+//       <Routes>
+//         {/* Route for the Observatory component */}
+//         <Route path="/observatory" element={<Observatory />} />
+//       </Routes>
+//     </BrowserRouter>
+//   );
+// }
+
